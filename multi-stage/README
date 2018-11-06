@@ -1,0 +1,5 @@
+# Create a specify Image
+
+````yml
+docker image build -t myapp:1.0 .
+
