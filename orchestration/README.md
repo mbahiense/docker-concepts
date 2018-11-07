@@ -64,6 +64,6 @@ docker stack rm demo_app
   networks:
    - dockercoins
   deploy:
-   replicas: `2`
+   replicas: 2
 ````
  
