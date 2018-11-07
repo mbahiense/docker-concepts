@@ -1,4 +1,4 @@
-# Ocherstration with Docker Compose and Swarm
+# Orchestration with Docker Compose and Swarm
 
 ## Docker Compose
  Recommends to manager multiples containers in `single` machine (node)
